@@ -1,0 +1,16 @@
+command_id: 7E0.22033C
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562033C013C
+  expected_values:
+    FORD_TIP_V: 1.54297
+    FORD_[ECU] TIP sensor voltage: 1.54297
+- response: 7E80562033C01D4
+  expected_values:
+    FORD_TIP_V: 2.28516
+    FORD_[ECU] TIP sensor voltage: 2.28516
+- response: 7E80562033C0275
+  expected_values:
+    FORD_TIP_V: 3.07129
+    FORD_[ECU] TIP sensor voltage: 3.07129
