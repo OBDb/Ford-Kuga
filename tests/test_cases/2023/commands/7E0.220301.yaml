@@ -1,0 +1,20 @@
+command_id: 7E0.220301
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203010161'
+  expected_values:
+    FORD_MAP_V: 0.34473
+    FORD_[ECU] MAP voltage: 0.34473
+- response: 7E80562030102FE
+  expected_values:
+    FORD_MAP_V: 0.74805
+    FORD_[ECU] MAP voltage: 0.74805
+- response: '7E8056203010303'
+  expected_values:
+    FORD_MAP_V: 0.75293
+    FORD_[ECU] MAP voltage: 0.75293
+- response: 7E8056203010C79
+  expected_values:
+    FORD_MAP_V: 3.11816
+    FORD_[ECU] MAP voltage: 3.11816
