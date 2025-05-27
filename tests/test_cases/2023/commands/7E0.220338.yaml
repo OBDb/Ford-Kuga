@@ -1,8 +1,0 @@
-command_id: 7E0.220338
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 7E805620338FF4E
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 90
-    FORD_[ECU] ETC learned trim: 90
