@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    KUGA_WARMUP_CLR: 1
+  response: 7E80462F43001
+- expected_values:
+    KUGA_WARMUP_CLR: 2
+  response: 7E80462F43002
+- expected_values:
+    KUGA_WARMUP_CLR: 10
+  response: 7E80462F4300A
+- expected_values:
+    KUGA_WARMUP_CLR: 12
+  response: 7E80462F4300C
+- expected_values:
+    KUGA_WARMUP_CLR: 14
+  response: 7E80462F4300E
+- expected_values:
+    KUGA_WARMUP_CLR: 17
+  response: 7E80462F43011
+- expected_values:
+    KUGA_WARMUP_CLR: 20
+  response: 7E80462F43014
+- expected_values:
+    KUGA_WARMUP_CLR: 48
+  response: 7E80462F43030
+- expected_values:
+    KUGA_WARMUP_CLR: 255
+  response: 7E80462F430FF

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    KUGA_PCM_A_C_REFRIG_P: 458
+  response: 7E80562060401CA
+- expected_values:
+    KUGA_PCM_A_C_REFRIG_P: 512
+  response: '7E8056206040200'
+- expected_values:
+    KUGA_PCM_A_C_REFRIG_P: 1277
+  response: 7E80562060404FD
+- expected_values:
+    KUGA_PCM_A_C_REFRIG_P: 1556
+  response: '7E8056206040614'

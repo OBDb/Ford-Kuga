@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    KUGA_AC_P_SENS_V: 0.8252
+  response: 7E805629800034D
+- expected_values:
+    KUGA_AC_P_SENS_V: 1.75
+  response: '7E8056298000700'
+- expected_values:
+    KUGA_AC_P_SENS_V: 1.99805
+  response: 7E80562980007FE
+- expected_values:
+    KUGA_AC_P_SENS_V: 2.25684
+  response: '7E8056298000907'

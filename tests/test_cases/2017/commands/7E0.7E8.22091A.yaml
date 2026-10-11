@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22091A
+test_cases:
+- expected_values:
+    KUGA_ETC_ANG_DES: 2.18555
+  response: 7E80562091A045F
+- expected_values:
+    KUGA_ETC_ANG_DES: 3.49805
+  response: 7E80562091A06FF
+- expected_values:
+    KUGA_ETC_ANG_DES: 3.50391
+  response: 7E80562091A0702
+- expected_values:
+    KUGA_ETC_ANG_DES: 33.01953
+  response: 7E80562091A420A

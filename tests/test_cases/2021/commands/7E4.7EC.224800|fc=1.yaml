@@ -1,19 +1,19 @@
 command_id: 7E4.7EC.224800|fc=1
 test_cases:
 - expected_values:
-    FORD_HVBAT_T: 30
+    KUGA_HVBAT_T: 30
   response: |-
     2248001
     7EC0462480050
 - expected_values:
-    FORD_HVBAT_T: 30
+    KUGA_HVBAT_T: 30
   response: 7EC0462480050
 - expected_values:
-    FORD_HVBAT_T: 35
+    KUGA_HVBAT_T: 35
   response: 7EC0462480055
 - expected_values:
-    FORD_HVBAT_T: 36
+    KUGA_HVBAT_T: 36
   response: 7EC0462480056
 - expected_values:
-    FORD_HVBAT_T: 37
+    KUGA_HVBAT_T: 37
   response: 7EC0462480057

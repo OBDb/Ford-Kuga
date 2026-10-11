@@ -1,0 +1,17 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    KUGA_BATT_TEMP: 17
+  response: '72E0462402939'
+- expected_values:
+    KUGA_BATT_TEMP: 47
+  response: '72E0462402957'
+- expected_values:
+    KUGA_BATT_TEMP: 57
+  response: '72E0462402961'
+- expected_values:
+    KUGA_BATT_TEMP: 58
+  response: '72E0462402962'
+- expected_values:
+    KUGA_BATT_TEMP: 60
+  response: '72E0462402964'

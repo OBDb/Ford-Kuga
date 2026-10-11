@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 78.26562
+  response: 7E8056205FC1391
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 79.5
+  response: 7E8056205FC13E0
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 80.04688
+  response: 7E8056205FC1403
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 92.64062
+  response: 7E8056205FC1729

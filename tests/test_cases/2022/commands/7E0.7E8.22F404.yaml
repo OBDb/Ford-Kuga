@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 15.29412
+  response: 7E80462F40427
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 30.98039
+  response: 7E80462F4044F
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 36.07843
+  response: 7E80462F4045C
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 52.94118
+  response: 7E80462F40487
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 54.5098
+  response: 7E80462F4048B
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 54.90196
+  response: 7E80462F4048C
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 71.76471
+  response: 7E80462F404B7

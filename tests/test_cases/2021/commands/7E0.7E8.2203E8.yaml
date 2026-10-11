@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    FORD_OAR: 0
-  response: 7E8056203E8C1B6
+    KUGA_OAR: 0.23846
+  response: 7E8056203E80F43
 - expected_values:
-    FORD_OAR: 0
-  response: 7E8056203E8E8C5
+    KUGA_OAR: 0.5603
+  response: 7E8056203E823DC
 - expected_values:
-    FORD_OAR: 0
-  response: 7E8056203E8F53E
+    KUGA_OAR: 0
+  response: 7E8056203E8E724
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8FBDB

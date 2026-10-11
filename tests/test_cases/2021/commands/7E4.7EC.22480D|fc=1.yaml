@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.22480D|fc=1
 test_cases:
 - expected_values:
-    FORD_HVBAT_V: 208.02
+    KUGA_HVBAT_V: 208.02
   response: 7EC0562480D5142
 - expected_values:
-    FORD_HVBAT_V: 220.12
+    KUGA_HVBAT_V: 220.12
   response: 7EC0562480D55FC
 - expected_values:
-    FORD_HVBAT_V: 220.36
+    KUGA_HVBAT_V: 220.36
   response: 7EC0562480D5614
 - expected_values:
-    FORD_HVBAT_V: 226.47
+    KUGA_HVBAT_V: 226.47
   response: 7EC0562480D5877

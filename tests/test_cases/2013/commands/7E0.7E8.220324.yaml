@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    FORD_HPFP_V: 1.25122
+    KUGA_HPFP_V: 1.25122
   response: '7E8056203240100'
 - expected_values:
-    FORD_HPFP_V: 1.36364
+    KUGA_HPFP_V: 1.36364
   response: '7E8056203240117'

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 0.99976
+  response: 7E805621E160FFF
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 1
+  response: 7E805621E161000
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 1.00024
+  response: 7E805621E161001
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 1.44556
+  response: 7E805621E161721
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 1.4458
+  response: 7E805621E161722
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 1.91064
+  response: 7E805621E161E92
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 2.82471
+  response: 7E805621E162D32
+- expected_values:
+    KUGA_AXLE_GEAR_RATIO_MEAS: 5
+  response: 7E805621E165000

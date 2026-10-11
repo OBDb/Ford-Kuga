@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    KUGA_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    KUGA_RPM: 1727
+  response: 7E80562F40C1AFC
+- expected_values:
+    KUGA_RPM: 1734.75
+  response: |-
+    7E80562F40C1B05
+    7E80562F40C1B1B
+- expected_values:
+    KUGA_RPM: 3867.75
+  response: 7E80562F40C3C6F

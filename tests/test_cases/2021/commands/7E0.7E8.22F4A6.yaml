@@ -1,0 +1,60 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    KUGA_PCM_VEH_ODO: 64770.3
+  response: 7E80762F4A60009E217
+- expected_values:
+    KUGA_PCM_VEH_ODO: 64998.4
+  response: 7E80762F4A60009EB00
+- expected_values:
+    KUGA_PCM_VEH_ODO: 123084.7
+  response: 7E80762F4A60012C7FF
+- expected_values:
+    KUGA_PCM_VEH_ODO: 175208.3
+  response: |-
+    7E80762F4A6001ABC10
+    7E80762F4A6001ABC13
+- expected_values:
+    KUGA_PCM_VEH_ODO: 176922.5
+  response: 7E80762F4A6001AFF09
+- expected_values:
+    KUGA_PCM_VEH_ODO: 176948
+  response: 7E80762F4A6001B0008
+- expected_values:
+    KUGA_PCM_VEH_ODO: 177189
+  response: |-
+    7E80762F4A6001B0972
+    7E80762F4A6001B0972
+- expected_values:
+    KUGA_PCM_VEH_ODO: 180233.8
+  response: |-
+    7E80762F4A6001B8055
+    7E80762F4A6001B8062
+- expected_values:
+    KUGA_PCM_VEH_ODO: 180651.1
+  response: |-
+    7E80762F4A6001B90AD
+    7E80762F4A6001B90AF
+- expected_values:
+    KUGA_PCM_VEH_ODO: 182675.8
+  response: |-
+    7E80762F4A6001BDFC6
+    7E80762F4A6001BDFC6
+- expected_values:
+    KUGA_PCM_VEH_ODO: 189606.6
+  response: |-
+    7E80762F4A6001CEE7D
+    7E80762F4A6001CEE82
+- expected_values:
+    KUGA_PCM_VEH_ODO: 190054.6
+  response: 7E80762F4A6001D0002
+- expected_values:
+    KUGA_PCM_VEH_ODO: 192523.8
+  response: |-
+    7E80762F4A6001D6073
+    7E80762F4A6001D6076
+- expected_values:
+    KUGA_PCM_VEH_ODO: 194188.3
+  response: |-
+    7E80762F4A6001DA179
+    7E80762F4A6001DA17B

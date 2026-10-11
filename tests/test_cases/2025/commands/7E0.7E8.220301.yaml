@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    KUGA_MAP_V: 4.00586
+  response: '7E8056203011006'
+- expected_values:
+    KUGA_MAP_V: 4.00684
+  response: '7E8056203011007'

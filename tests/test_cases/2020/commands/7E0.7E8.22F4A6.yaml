@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    KUGA_PCM_VEH_ODO: 58820.6
+  response: 7E80762F4A60008F9AE
+- expected_values:
+    KUGA_PCM_VEH_ODO: 111872.5
+  response: 7E80762F4A600111205
+- expected_values:
+    KUGA_PCM_VEH_ODO: 152495.4
+  response: 7E80762F4A6001744DA
+- expected_values:
+    KUGA_PCM_VEH_ODO: 159223
+  response: 7E80762F4A600184BA6

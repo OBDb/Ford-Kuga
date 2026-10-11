@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    KUGA_TOT_7E0: 79.5
+  response: '7E8 05 62 1E 1C 04 F8 '
+- expected_values:
+    KUGA_TOT_7E0: 80.25
+  response: '7E8 05 62 1E 1C 05 04 '
+- expected_values:
+    KUGA_TOT_7E0: 45.0625
+  response: 7E805621E1C02D1
+- expected_values:
+    KUGA_TOT_7E0: 79.5
+  response: 7E805621E1C04F8
+- expected_values:
+    KUGA_TOT_7E0: 80.4375
+  response: 7E805621E1C0507

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 15.29412
+  response: 7E80462F40427
+- expected_values:
+    KUGA_ENG_LOAD_PCT: 76.86275
+  response: 7E80462F404C4

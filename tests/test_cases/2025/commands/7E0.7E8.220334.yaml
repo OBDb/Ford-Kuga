@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 53.45312
+  response: 7E8056203340D5D
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 53.6875
+  response: 7E8056203340D6C
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 53.875
+  response: 7E8056203340D78
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 54.15625
+  response: 7E8056203340D8A
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 54.28125
+  response: 7E8056203340D92
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 54.65625
+  response: 7E8056203340DAA
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 55.34375
+  response: 7E8056203340DD6
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 56.92188
+  response: 7E8056203340E3B
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 57.28125
+  response: 7E8056203340E52

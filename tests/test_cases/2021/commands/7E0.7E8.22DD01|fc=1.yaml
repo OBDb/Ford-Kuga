@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    FORD_ODO: 63765
+    KUGA_ODO_7E0: 63765
   response: 7E80662DD0100F915
 - expected_values:
-    FORD_ODO: 73651
+    KUGA_ODO_7E0: 73651
   response: 7E80662DD01011FB3
 - expected_values:
-    FORD_ODO: 73652
+    KUGA_ODO_7E0: 73652
   response: 7E80662DD01011FB4
 - expected_values:
-    FORD_ODO: 73653
+    KUGA_ODO_7E0: 73653
   response: 7E80662DD01011FB5
 - expected_values:
-    FORD_ODO: 73654
+    KUGA_ODO_7E0: 73654
   response: 7E80662DD01011FB6
 - expected_values:
-    FORD_ODO: 73655
+    KUGA_ODO_7E0: 73655
   response: 7E80662DD01011FB7
 - expected_values:
-    FORD_ODO: 73657
+    KUGA_ODO_7E0: 73657
   response: 7E80662DD01011FB9
 - expected_values:
-    FORD_ODO: 73659
+    KUGA_ODO_7E0: 73659
   response: 7E80662DD01011FBB
 - expected_values:
-    FORD_ODO: 73660
+    KUGA_ODO_7E0: 73660
   response: 7E80662DD01011FBC

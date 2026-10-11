@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    KUGA_WGDC: 11.57532
+  response: 7E8056204620ED1
+- expected_values:
+    KUGA_WGDC: 62.51831
+  response: '7E8056204625006'
+- expected_values:
+    KUGA_WGDC: 74.18518
+  response: 7E8056204625EF5
+- expected_values:
+    KUGA_WGDC: 98.54736
+  response: 7E8056204627E24

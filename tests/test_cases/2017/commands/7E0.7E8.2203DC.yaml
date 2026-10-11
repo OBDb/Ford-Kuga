@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    KUGA_HPFP_DES: 255.26642
+  response: 7E8056203DC00B0
+- expected_values:
+    KUGA_HPFP_DES: 355.34246
+  response: 7E8056203DC00F5
+- expected_values:
+    KUGA_HPFP_DES: 755.64662
+  response: 7E8056203DC0209
+- expected_values:
+    KUGA_HPFP_DES: 1179.15682
+  response: 7E8056203DC032D

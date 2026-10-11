@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22046F
+test_cases:
+- expected_values:
+    KUGA_INJ_MODE: 7
+  response: 7E80462046F07
+- expected_values:
+    KUGA_INJ_MODE: 7
+  response: 7E80462046F07000000

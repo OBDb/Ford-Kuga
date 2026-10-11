@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 91.76471
+  response: 7E804620707EA
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

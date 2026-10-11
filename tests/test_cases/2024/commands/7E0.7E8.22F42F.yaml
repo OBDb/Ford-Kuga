@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    KUGA_FLI: 41.96078
+  response: 7E80462F42F6B
+- expected_values:
+    KUGA_FLI: 91.37255
+  response: 7E80462F42FE9

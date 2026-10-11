@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.33203
+  response: 7E80562033800AA
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.98242
+  response: 7E80562033801F7
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 1.0293
+  response: 7E805620338020F

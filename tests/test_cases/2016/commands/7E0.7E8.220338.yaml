@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.36133
+  response: 7E80562033800B9
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.38672
+  response: 7E80562033800C6
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.41797
+  response: 7E80562033800D6
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.42969
+  response: 7E80562033800DC
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.45508
+  response: 7E80562033800E9
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.69141
+  response: '7E8056203380162'
+- expected_values:
+    KUGA_ETC_TRIM_LRN: 0.70117
+  response: '7E8056203380167'

@@ -1,0 +1,17 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    KUGA_ODO_726: 88393
+  response: 72E0662DD01015949
+- expected_values:
+    KUGA_ODO_726: 88575
+  response: 72E0662DD010159FF
+- expected_values:
+    KUGA_ODO_726: 88576
+  response: 72E0662DD01015A00
+- expected_values:
+    KUGA_ODO_726: 136542
+  response: 72E0662DD0102155E
+- expected_values:
+    KUGA_ODO_726: 236748
+  response: 72E0662DD01039CCC

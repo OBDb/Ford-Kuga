@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22035A
+test_cases:
+- expected_values:
+    KUGA_BARO_V: 3.87586
+  response: 7E80562035A0319
+- expected_values:
+    KUGA_BARO_V: 3.92962
+  response: 7E80562035A0324
+- expected_values:
+    KUGA_BARO_V: 3.93451
+  response: 7E80562035A0325
+- expected_values:
+    KUGA_BARO_V: 3.93939
+  response: 7E80562035A0326
+- expected_values:
+    KUGA_BARO_V: 3.96383
+  response: 7E80562035A032B
+- expected_values:
+    KUGA_BARO_V: 3.98827
+  response: 7E80562035A0330

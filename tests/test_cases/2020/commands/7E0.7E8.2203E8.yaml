@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8B334
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8BCA8
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8C000
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8C95B
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8CC96
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8D12D
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8D34F
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8F46C
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8F99D

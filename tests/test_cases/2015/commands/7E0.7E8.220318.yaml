@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220318
+test_cases:
+- expected_values:
+    KUGA_VCT_INT_ACT: 0
+  response: '7E8056203180000'
+- expected_values:
+    KUGA_VCT_INT_ACT: -25.75
+  response: 7E805620318FE64
+- expected_values:
+    KUGA_VCT_INT_ACT: -21.5625
+  response: 7E805620318FEA7
+- expected_values:
+    KUGA_VCT_INT_ACT: -0.25
+  response: 7E805620318FFFC
+- expected_values:
+    KUGA_VCT_INT_ACT: -0.1875
+  response: 7E805620318FFFD
+- expected_values:
+    KUGA_VCT_INT_ACT: -0.125
+  response: 7E805620318FFFE
+- expected_values:
+    KUGA_VCT_INT_ACT: -0.0625
+  response: 7E805620318FFFF

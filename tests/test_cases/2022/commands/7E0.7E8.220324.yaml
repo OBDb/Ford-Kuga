@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    KUGA_HPFP_V: 1.38807
+  response: 7E805620324011C
+- expected_values:
+    KUGA_HPFP_V: 1.78397
+  response: 7E805620324016D
+- expected_values:
+    KUGA_HPFP_V: 3.26491
+  response: 7E805620324029C0000

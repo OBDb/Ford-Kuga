@@ -1,0 +1,23 @@
+command_id: 726.72E.222815
+test_cases:
+- expected_values:
+    KUGA_TP_RRO: 33.75
+  response: "222815\n72E 05 62 28 15 02 A3 "
+- expected_values:
+    KUGA_TP_RRO: 34.25
+  response: '72E 05 62 28 15 02 AD '
+- expected_values:
+    KUGA_TP_RRO: 34.5
+  response: '72E 05 62 28 15 02 B2 '
+- expected_values:
+    KUGA_TP_RRO: 35.75
+  response: '72E 05 62 28 15 02 CB '
+- expected_values:
+    KUGA_TP_RRO: 13.5
+  response: 72E05622815010E
+- expected_values:
+    KUGA_TP_RRO: 38.25
+  response: 72E0562281502FD
+- expected_values:
+    KUGA_TP_RRO: 38.4
+  response: '72E056228150300'

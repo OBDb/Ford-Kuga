@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    KUGA_DIST_DTC_CLR: 39
+  response: 7E80562F4310027
+- expected_values:
+    KUGA_DIST_DTC_CLR: 26855
+  response: 7E80562F43168E7
+- expected_values:
+    KUGA_DIST_DTC_CLR: 26907
+  response: 7E80562F431691B
+- expected_values:
+    KUGA_DIST_DTC_CLR: 29035
+  response: 7E80562F431716B

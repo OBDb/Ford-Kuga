@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    KUGA_LPFP_DES: 81.345
+  response: 7E80462041FBB
+- expected_values:
+    KUGA_LPFP_DES: 81.78
+  response: 7E80462041FBC
+- expected_values:
+    KUGA_LPFP_DES: 91.35
+  response: 7E80462041FD2

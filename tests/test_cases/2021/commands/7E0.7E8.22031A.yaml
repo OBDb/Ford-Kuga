@@ -1,20 +1,11 @@
 command_id: 7E0.7E8.22031A
 test_cases:
 - expected_values:
-    FORD_VCT_INT_ERR: 0
+    KUGA_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    FORD_VCT_INT_ERR: 0.0625
-  response: 7E80562031A0001
+    KUGA_VCT_INT_ERR: -9.0625
+  response: 7E80562031AFF6F
 - expected_values:
-    FORD_VCT_INT_ERR: 0.1875
-  response: 7E80562031A0003
-- expected_values:
-    FORD_VCT_INT_ERR: -0.25
-  response: 7E80562031AFFFC
-- expected_values:
-    FORD_VCT_INT_ERR: -0.125
-  response: 7E80562031AFFFE
-- expected_values:
-    FORD_VCT_INT_ERR: -0.0625
+    KUGA_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    KUGA_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    KUGA_EVAP_PURGE_CMD: 78.10974
+  response: 7E80562116663FB
+- expected_values:
+    KUGA_EVAP_PURGE_CMD: 79.00696
+  response: '7E8056211666521'

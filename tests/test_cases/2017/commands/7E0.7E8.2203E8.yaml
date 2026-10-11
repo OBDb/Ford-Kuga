@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    KUGA_OAR: 0.11322
+  response: 7E8056203E8073F
+- expected_values:
+    KUGA_OAR: 0.32526
+  response: 7E8056203E814D1
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8F389
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8F4E4
+- expected_values:
+    KUGA_OAR: 0
+  response: 7E8056203E8FA73

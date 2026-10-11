@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220353
+test_cases:
+- expected_values:
+    KUGA_BARO: 14.24836
+  response: '7E8056203530189'
+- expected_values:
+    KUGA_BARO: 14.79219
+  response: '7E8056203530198'

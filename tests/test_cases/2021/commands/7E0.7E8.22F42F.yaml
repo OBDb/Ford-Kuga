@@ -1,8 +1,21 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    FORD_FLI: 52.54902
+    KUGA_FLI: 0
+  response: 7E80462F42F00
+- expected_values:
+    KUGA_FLI: 52.54902
   response: 7E80462F42F86
 - expected_values:
-    FORD_FLI: 87.84314
-  response: 7E80462F42FE0
+    KUGA_FLI: 69.80392
+  response: |-
+    7E80462F42FB1
+    7E80462F42FB2
+- expected_values:
+    KUGA_FLI: 90.98039
+  response: |-
+    7E80462F42FE8
+    7E80462F42FE8
+- expected_values:
+    KUGA_FLI: 100
+  response: 7E80462F42FFF

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    KUGA_PCM_CMD_TRANS_MAIN_LINE_P: 464
+  response: 7E805621E1A00E8
+- expected_values:
+    KUGA_PCM_CMD_TRANS_MAIN_LINE_P: 552
+  response: 7E805621E1A0114
+- expected_values:
+    KUGA_PCM_CMD_TRANS_MAIN_LINE_P: 688
+  response: 7E805621E1A0158
+- expected_values:
+    KUGA_PCM_CMD_TRANS_MAIN_LINE_P: 740
+  response: 7E805621E1A0172
