@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 44.39062
+  response: 7E8056203340B19
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 51.54688
+  response: 7E8056203340CE3
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_CORR: 88.54688
+  response: '7E8056203341623'

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    KUGA_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    KUGA_VSS: 16
+  response: 7E80462F40D10
+- expected_values:
+    KUGA_VSS: 40
+  response: 7E80462F40D28
+- expected_values:
+    KUGA_VSS: 50
+  response: 7E80462F40D32
+- expected_values:
+    KUGA_VSS: 54
+  response: 7E80462F40D36
+- expected_values:
+    KUGA_VSS: 63
+  response: 7E80462F40D3F
+- expected_values:
+    KUGA_VSS: 64
+  response: 7E80462F40D40

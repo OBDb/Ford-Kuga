@@ -1,8 +1,17 @@
 command_id: 7E0.7E8.220353
 test_cases:
 - expected_values:
-    FORD_BARO: 14.57466
+    KUGA_BARO: 14.35713
+  response: 7E805620353018C
+- expected_values:
+    KUGA_BARO: 14.42964
+  response: 7E805620353018E
+- expected_values:
+    KUGA_BARO: 14.4659
+  response: 7E805620353018F
+- expected_values:
+    KUGA_BARO: 14.57466
   response: '7E8056203530192'
 - expected_values:
-    FORD_BARO: 14.61092
+    KUGA_BARO: 14.61092
   response: '7E8056203530193'

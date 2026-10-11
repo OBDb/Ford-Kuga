@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    KUGA_ECT: 35.46875
+  response: 7E80562038F08DE
+- expected_values:
+    KUGA_ECT: 52
+  response: 7E80562038F0D00
+- expected_values:
+    KUGA_ECT: 57.35938
+  response: 7E80562038F0E57
+- expected_values:
+    KUGA_ECT: 59.89062
+  response: 7E80562038F0EF9

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    KUGA_LPFP_DUTY: 18.09082
+  response: '7E8056203071728'
+- expected_values:
+    KUGA_LPFP_DUTY: 18.09387
+  response: '7E8056203071729'
+- expected_values:
+    KUGA_LPFP_DUTY: 18.10303
+  response: 7E805620307172C
+- expected_values:
+    KUGA_LPFP_DUTY: 18.10913
+  response: 7E805620307172E
+- expected_values:
+    KUGA_LPFP_DUTY: 18.11218
+  response: 7E805620307172F
+- expected_values:
+    KUGA_LPFP_DUTY: 18.11523
+  response: '7E8056203071730'
+- expected_values:
+    KUGA_LPFP_DUTY: 18.11829
+  response: '7E8056203071731'
+- expected_values:
+    KUGA_LPFP_DUTY: 18.29834
+  response: 7E805620307176C

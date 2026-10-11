@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    FORD_MAP_V: 0.34473
+    KUGA_MAP_V: 0.34473
   response: '7E8056203010161'
 - expected_values:
-    FORD_MAP_V: 0.74805
+    KUGA_MAP_V: 0.5
+  response: '7E8056203010200'
+- expected_values:
+    KUGA_MAP_V: 0.74805
   response: 7E80562030102FE
 - expected_values:
-    FORD_MAP_V: 0.75293
-  response: '7E8056203010303'
-- expected_values:
-    FORD_MAP_V: 3.11816
-  response: 7E8056203010C79
+    KUGA_MAP_V: 3.93848
+  response: 7E8056203010FC1

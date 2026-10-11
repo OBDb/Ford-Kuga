@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 0
+  response: '7E80462070700'
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 6.66667
+  response: '7E80462070711'
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 7.05882
+  response: '7E80462070712'
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 23.52941
+  response: 7E8046207073C
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 29.80392
+  response: 7E8046207074C
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 34.90196
+  response: '7E80462070759'
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 45.88235
+  response: '7E80462070775'
+- expected_values:
+    KUGA_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

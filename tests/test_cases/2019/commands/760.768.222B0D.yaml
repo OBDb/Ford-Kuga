@@ -1,0 +1,23 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0062
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0064
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0066
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0067
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0068
+- expected_values:
+    KUGA_BRK_FL_P: 0
+  response: 76805622B0D0069

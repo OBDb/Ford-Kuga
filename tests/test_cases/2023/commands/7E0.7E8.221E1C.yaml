@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221E1C
 test_cases:
 - expected_values:
-    FORD_TOT: 79
-  response: 7E805621E1C04F0
+    KUGA_TOT_7E0: 0
+  response: 7E805621E1C0000
 - expected_values:
-    FORD_TOT: 79.8125
-  response: 7E805621E1C04FD
+    KUGA_TOT_7E0: 15.9375
+  response: 7E805621E1C00FF
 - expected_values:
-    FORD_TOT: 96.0625
-  response: 7E805621E1C0601
+    KUGA_TOT_7E0: -9.3125
+  response: 7E805621E1CFF6B

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    KUGA_RO2_V: 0.39258
+  response: 7E80562035F0192
+- expected_values:
+    KUGA_RO2_V: 0.40234
+  response: 7E80562035F019C
+- expected_values:
+    KUGA_RO2_V: 0.40332
+  response: 7E80562035F019D
+- expected_values:
+    KUGA_RO2_V: 0.4043
+  response: 7E80562035F019E
+- expected_values:
+    KUGA_RO2_V: 0.40625
+  response: 7E80562035F01A0
+- expected_values:
+    KUGA_RO2_V: 0.40918
+  response: 7E80562035F01A3
+- expected_values:
+    KUGA_RO2_V: 0.41113
+  response: 7E80562035F01A5
+- expected_values:
+    KUGA_RO2_V: 0.4248
+  response: 7E80562035F01B3
+- expected_values:
+    KUGA_RO2_V: 0.44336
+  response: 7E80562035F01C6

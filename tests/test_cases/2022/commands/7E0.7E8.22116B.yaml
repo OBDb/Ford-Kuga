@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    KUGA_IGN_TIM_CYL1: 10
+  response: 7E80562116B0028
+- expected_values:
+    KUGA_IGN_TIM_CYL1: 17.75
+  response: 7E80562116B0047
+- expected_values:
+    KUGA_IGN_TIM_CYL1: 28
+  response: 7E80562116B0070
+- expected_values:
+    KUGA_IGN_TIM_CYL1: 28.25
+  response: 7E80562116B0071
+- expected_values:
+    KUGA_IGN_TIM_CYL1: 36.75
+  response: 7E80562116B0093
+- expected_values:
+    KUGA_IGN_TIM_CYL1: 53.25
+  response: 7E80562116B00D5
+- expected_values:
+    KUGA_IGN_TIM_CYL1: -15
+  response: 7E80562116BFFC4
+- expected_values:
+    KUGA_IGN_TIM_CYL1: -5
+  response: 7E80562116BFFEC

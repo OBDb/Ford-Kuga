@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    FORD_ODO: 226157
+    KUGA_ODO_7E0: 226157
   response: 7E80662DD0103736D

@@ -1,0 +1,14 @@
+command_id: 7E0.0115
+test_cases:
+- expected_values:
+    O2S12: 0.355
+  response: 7E804411547FF
+- expected_values:
+    O2S12: 0.61
+  response: 7E80441157AFF
+- expected_values:
+    O2S12: 0.615
+  response: 7E80441157BFF
+- expected_values:
+    O2S12: 0.64
+  response: 7E804411580FF

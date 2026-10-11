@@ -1,8 +1,5 @@
 command_id: 7DF.221E23
 test_cases:
 - expected_values:
-    FORD_GEAR_SHFT_V2: null
-  response: 7EE04621E232B
-- expected_values:
-    FORD_GEAR_SHFT_V2: PARK
+    KUGA_GEAR_SHFT_V2_7DF: PARK
   response: 7EE04621E2346

@@ -1,22 +1,39 @@
 command_id: 726.72E.222815
 test_cases:
 - expected_values:
-    FORD_TP_RR: 35.9
-    FORD_TP_RRO: 35.9
-  response: 72E0562281502CE
+    KUGA_TP_RRO: 11.9
+  response: 72E0562281500EE
 - expected_values:
-    FORD_TP_RR: 36.15
-    FORD_TP_RRO: 36.15
-  response: 72E0562281502D3
+    KUGA_TP_RRO: 35.85
+  response: |-
+    72E0562281502CD
+    72E0562281502CD
 - expected_values:
-    FORD_TP_RR: 36.4
-    FORD_TP_RRO: 36.4
-  response: 72E0562281502D8
+    KUGA_TP_RRO: 37.6
+  response: |-
+    72E0562281502F0
+    72E0562281502F0
 - expected_values:
-    FORD_TP_RR: 36.65
-    FORD_TP_RRO: 36.65
-  response: 72E0562281502DD
+    KUGA_TP_RRO: 38.1
+  response: |-
+    72E0562281502FA
+    72E0562281502FA
 - expected_values:
-    FORD_TP_RR: 36.95
-    FORD_TP_RRO: 36.95
-  response: 72E0562281502E3
+    KUGA_TP_RRO: 38.35
+  response: 72E0562281502FF
+- expected_values:
+    KUGA_TP_RRO: 38.4
+  response: '72E056228150300'
+- expected_values:
+    KUGA_TP_RRO: 38.5
+  response: |-
+    72E056228150302
+    72E056228150302
+- expected_values:
+    KUGA_TP_RRO: 41.25
+  response: |-
+    72E056228150339
+    72E056228150339
+- expected_values:
+    KUGA_TP_RRO: null
+  response: 72E056228150BB8

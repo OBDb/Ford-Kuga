@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    KUGA_WARMUP_CLR: 6
+  response: 7E80462F43006
+- expected_values:
+    KUGA_WARMUP_CLR: 241
+  response: 7E80462F430F1
+- expected_values:
+    KUGA_WARMUP_CLR: 242
+  response: 7E80462F430F2
+- expected_values:
+    KUGA_WARMUP_CLR: 243
+  response: 7E80462F430F3

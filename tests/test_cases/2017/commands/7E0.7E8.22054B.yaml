@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22054B
+test_cases:
+- expected_values:
+    KUGA_PCM_ENG_OIL_LIFE_REM: 13
+  response: 7E80462054B0D
+- expected_values:
+    KUGA_PCM_ENG_OIL_LIFE_REM: 47
+  response: 7E80462054B2F
+- expected_values:
+    KUGA_PCM_ENG_OIL_LIFE_REM: 95
+  response: 7E80462054B5F
+- expected_values:
+    KUGA_PCM_ENG_OIL_LIFE_REM: 96
+  response: 7E80462054B60

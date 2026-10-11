@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    KUGA_IAT_ALT2: 2
+  response: 7E80462F40F2A
+- expected_values:
+    KUGA_IAT_ALT2: 3
+  response: 7E80462F40F2B
+- expected_values:
+    KUGA_IAT_ALT2: 4
+  response: 7E80462F40F2C

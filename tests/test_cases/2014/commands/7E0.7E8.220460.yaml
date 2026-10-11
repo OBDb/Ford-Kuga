@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220460
+test_cases:
+- expected_values:
+    KUGA_CAT_SENS_V: 2.34863
+  response: '7E8056204600965'

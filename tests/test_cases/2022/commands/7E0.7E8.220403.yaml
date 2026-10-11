@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    KUGA_KS1_RAW: 0
+  response: '7E8056204030000'
+- expected_values:
+    KUGA_KS1_RAW: 80
+  response: '7E8056204030050'
+- expected_values:
+    KUGA_KS1_RAW: 163
+  response: 7E80562040300A3
+- expected_values:
+    KUGA_KS1_RAW: 171
+  response: 7E80562040300AB
+- expected_values:
+    KUGA_KS1_RAW: 182
+  response: 7E80562040300B6
+- expected_values:
+    KUGA_KS1_RAW: 193
+  response: 7E80562040300C1

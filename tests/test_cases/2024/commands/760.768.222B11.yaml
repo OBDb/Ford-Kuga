@@ -1,0 +1,14 @@
+command_id: 760.768.222B11
+test_cases:
+- expected_values:
+    KUGA_LAT_G: -0.42
+  response: 76805622B11FFEB
+- expected_values:
+    KUGA_LAT_G: -0.4
+  response: 76805622B11FFEC
+- expected_values:
+    KUGA_LAT_G: -0.38
+  response: 76805622B11FFED
+- expected_values:
+    KUGA_LAT_G: -0.34
+  response: 76805622B11FFEF

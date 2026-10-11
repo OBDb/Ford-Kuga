@@ -1,0 +1,29 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    KUGA_ODO_726: 320376
+  response: "22DD01\n72E 06 62 DD 01 04 E3 78 "
+- expected_values:
+    KUGA_ODO_726: 318659
+  response: '72E 06 62 DD 01 04 DC C3 '
+- expected_values:
+    KUGA_ODO_726: 319583
+  response: '72E 06 62 DD 01 04 E0 5F '
+- expected_values:
+    KUGA_ODO_726: 319584
+  response: '72E 06 62 DD 01 04 E0 60 '
+- expected_values:
+    KUGA_ODO_726: 241713
+  response: 72E0662DD0103B031
+- expected_values:
+    KUGA_ODO_726: 316877
+  response: 72E0662DD0104D5CD
+- expected_values:
+    KUGA_ODO_726: 316927
+  response: 72E0662DD0104D5FF
+- expected_values:
+    KUGA_ODO_726: 316928
+  response: 72E0662DD0104D600
+- expected_values:
+    KUGA_ODO_726: 320256
+  response: 72E0662DD0104E300

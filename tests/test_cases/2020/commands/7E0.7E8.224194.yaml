@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    KUGA_DTE: 90.2
+  response: '7E8056241940386'
+- expected_values:
+    KUGA_DTE: 204.7
+  response: 7E80562419407FF
+- expected_values:
+    KUGA_DTE: 256
+  response: 7E8056241940A00
+- expected_values:
+    KUGA_DTE: 640.8
+  response: '7E8056241941908'

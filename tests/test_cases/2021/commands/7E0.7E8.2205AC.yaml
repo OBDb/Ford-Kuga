@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2205AC
+test_cases:
+- expected_values:
+    KUGA_PCM_CYL_1_KNK_COMB_PERF_CNT: 28
+  response: 7E8046205AC1C
+- expected_values:
+    KUGA_PCM_CYL_1_KNK_COMB_PERF_CNT: 32
+  response: 7E8046205AC20
+- expected_values:
+    KUGA_PCM_CYL_1_KNK_COMB_PERF_CNT: 80
+  response: 7E8046205AC50
+- expected_values:
+    KUGA_PCM_CYL_1_KNK_COMB_PERF_CNT: 113
+  response: 7E8046205AC71
+- expected_values:
+    KUGA_PCM_CYL_1_KNK_COMB_PERF_CNT: 114
+  response: 7E8046205AC72

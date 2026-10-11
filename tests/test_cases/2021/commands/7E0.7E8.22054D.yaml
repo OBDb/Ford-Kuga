@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    KUGA_LPFP_SENS_V: 1.65039
+  response: 7E80562054D069A
+- expected_values:
+    KUGA_LPFP_SENS_V: 1.74805
+  response: 7E80562054D06FE
+- expected_values:
+    KUGA_LPFP_SENS_V: 2.00195
+  response: 7E80562054D0802
+- expected_values:
+    KUGA_LPFP_SENS_V: 3.58887
+  response: 7E80562054D0E5B

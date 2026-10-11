@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    KUGA_PCM_ENG_EOP_RAW: 208
+  response: 7E80562041500D0
+- expected_values:
+    KUGA_PCM_ENG_EOP_RAW: 213
+  response: 7E80562041500D5
+- expected_values:
+    KUGA_PCM_ENG_EOP_RAW: 289
+  response: '7E80562041501210000'
+- expected_values:
+    KUGA_PCM_ENG_EOP_RAW: 293
+  response: '7E80562041501250000'

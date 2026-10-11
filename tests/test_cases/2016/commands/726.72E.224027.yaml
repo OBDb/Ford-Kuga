@@ -1,0 +1,14 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    KUGA_BATT_AGE: 1825
+  response: 72E056240270E49
+- expected_values:
+    KUGA_BATT_AGE: 1825
+  response: 72E056240270E4A
+- expected_values:
+    KUGA_BATT_AGE: 1825
+  response: 72E056240270E61
+- expected_values:
+    KUGA_BATT_AGE: 1825
+  response: 72E056240270E66

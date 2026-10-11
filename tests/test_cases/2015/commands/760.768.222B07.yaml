@@ -1,0 +1,26 @@
+command_id: 760.768.222B07
+test_cases:
+- expected_values:
+    KUGA_FL_VSS: 0
+  response: 76804622B0700
+- expected_values:
+    KUGA_FL_VSS: 2
+  response: 76804622B0702
+- expected_values:
+    KUGA_FL_VSS: 36
+  response: 76804622B0724
+- expected_values:
+    KUGA_FL_VSS: 37
+  response: 76804622B0725
+- expected_values:
+    KUGA_FL_VSS: 48
+  response: 76804622B0730
+- expected_values:
+    KUGA_FL_VSS: 53
+  response: 76804622B0735
+- expected_values:
+    KUGA_FL_VSS: 59
+  response: 76804622B073B
+- expected_values:
+    KUGA_FL_VSS: 64
+  response: 76804622B0740

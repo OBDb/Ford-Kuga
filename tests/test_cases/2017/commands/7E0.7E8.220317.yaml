@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    KUGA_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    KUGA_VCT_EXH_DUTY: 35.86121
+  response: 7E8056203172DE7
+- expected_values:
+    KUGA_VCT_EXH_DUTY: 66.21704
+  response: 7E80562031754C2

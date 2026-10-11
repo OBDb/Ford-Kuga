@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1F
+test_cases:
+- expected_values:
+    KUGA_GEAR_ENG: 4
+  response: 7E804621E1F04000000
+- expected_values:
+    KUGA_GEAR_ENG: 6
+  response: 7E804621E1F07
+- expected_values:
+    KUGA_GEAR_ENG: 6
+  response: 7E804621E1F46

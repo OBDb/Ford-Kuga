@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F462
+test_cases:
+- expected_values:
+    KUGA_PCM_ACT_ENG_PCT_TRQ: 0
+  response: 7E80462F4627D
+- expected_values:
+    KUGA_PCM_ACT_ENG_PCT_TRQ: 10
+  response: 7E80462F46287
+- expected_values:
+    KUGA_PCM_ACT_ENG_PCT_TRQ: 16
+  response: 7E80462F4628D
+- expected_values:
+    KUGA_PCM_ACT_ENG_PCT_TRQ: 24
+  response: 7E80462F46295
+- expected_values:
+    KUGA_PCM_ACT_ENG_PCT_TRQ: 27
+  response: 7E80462F46298
+- expected_values:
+    KUGA_PCM_ACT_ENG_PCT_TRQ: 38
+  response: 7E80462F462A3

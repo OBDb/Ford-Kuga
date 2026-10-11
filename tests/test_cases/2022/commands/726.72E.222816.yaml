@@ -1,0 +1,17 @@
+command_id: 726.72E.222816
+test_cases:
+- expected_values:
+    KUGA_TP_RLO: 26.9
+  response: 72E05622816021A
+- expected_values:
+    KUGA_TP_RLO: 32.3
+  response: '72E0562281602860000'
+- expected_values:
+    KUGA_TP_RLO: 33.4
+  response: 72E05622816029C0000
+- expected_values:
+    KUGA_TP_RLO: 38.15
+  response: 72E0562281602FB
+- expected_values:
+    KUGA_TP_RLO: null
+  response: 72E056228160BB8

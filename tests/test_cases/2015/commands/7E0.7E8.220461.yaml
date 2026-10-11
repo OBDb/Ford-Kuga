@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220461
+test_cases:
+- expected_values:
+    KUGA_CAT: -37.6875
+  response: '7E8056204610094'
+- expected_values:
+    KUGA_CAT: -35.76562
+  response: 7E805620461010F
+- expected_values:
+    KUGA_CAT: -32.73438
+  response: 7E80562046101D1

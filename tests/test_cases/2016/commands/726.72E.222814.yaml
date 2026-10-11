@@ -1,0 +1,20 @@
+command_id: 726.72E.222814
+test_cases:
+- expected_values:
+    KUGA_TP_FR: 34.5
+  response: '72E 05 62 28 14 02 B2 '
+- expected_values:
+    KUGA_TP_FR: 35
+  response: '72E 05 62 28 14 02 BC '
+- expected_values:
+    KUGA_TP_FR: 37
+  response: '72E 05 62 28 14 02 E4 '
+- expected_values:
+    KUGA_TP_FR: 13.5
+  response: 72E05622814010E
+- expected_values:
+    KUGA_TP_FR: 38.3
+  response: 72E0562281402FE
+- expected_values:
+    KUGA_TP_FR: 38.4
+  response: '72E056228140300'

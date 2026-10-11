@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    KUGA_HPFP_DES: 449.61699
+  response: 7E8056203DC0136
+- expected_values:
+    KUGA_HPFP_DES: 462.67039
+  response: 7E8056203DC013F
+- expected_values:
+    KUGA_HPFP_DES: 478.62454
+  response: 7E8056203DC014A
+- expected_values:
+    KUGA_HPFP_DES: 490.22756
+  response: 7E8056203DC0152
+- expected_values:
+    KUGA_HPFP_DES: 497.47945
+  response: 7E8056203DC0157
+- expected_values:
+    KUGA_HPFP_DES: 510.53284
+  response: 7E8056203DC0160
+- expected_values:
+    KUGA_HPFP_DES: 511.98322
+  response: 7E8056203DC0161
+- expected_values:
+    KUGA_HPFP_DES: 736.79172
+  response: 7E8056203DC01FC
+- expected_values:
+    KUGA_HPFP_DES: 1490.98796
+  response: 7E8056203DC0404
+- expected_values:
+    KUGA_HPFP_DES: 1821.67401
+  response: 7E8056203DC04E8

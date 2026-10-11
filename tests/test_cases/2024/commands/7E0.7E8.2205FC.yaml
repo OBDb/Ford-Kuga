@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 52.3125
+  response: 7E8056205FC0D14
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 54.04688
+  response: 7E8056205FC0D83
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 55.92188
+  response: 7E8056205FC0DFB
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 56.875
+  response: 7E8056205FC0E38
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 58
+  response: 7E8056205FC0E80
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 58.65625
+  response: 7E8056205FC0EAA
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 59.17188
+  response: 7E8056205FC0ECB
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 59.92188
+  response: 7E8056205FC0EFB
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 60.28125
+  response: 7E8056205FC0F12
+- expected_values:
+    KUGA_PCM_CYL_HEAD_T_SENS_2_RAW: 61
+  response: 7E8056205FC0F40

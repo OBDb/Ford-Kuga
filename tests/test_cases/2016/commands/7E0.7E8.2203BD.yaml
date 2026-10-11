@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    KUGA_CL_LC: 0
+  response: 7E8056203BD0000
+- expected_values:
+    KUGA_CL_LC: 0.00415
+  response: 7E8056203BD0022
+- expected_values:
+    KUGA_CL_LC: 0.00562
+  response: 7E8056203BD002E
+- expected_values:
+    KUGA_CL_LC: 0.01001
+  response: 7E8056203BD0052
+- expected_values:
+    KUGA_CL_LC: 0.01306
+  response: 7E8056203BD006B
+- expected_values:
+    KUGA_CL_LC: -0.0166
+  response: 7E8056203BDFF78
+- expected_values:
+    KUGA_CL_LC: -0.00989
+  response: 7E8056203BDFFAF

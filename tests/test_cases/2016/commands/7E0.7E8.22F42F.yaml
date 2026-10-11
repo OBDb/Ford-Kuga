@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    KUGA_FLI: 12.15686
+  response: "22F42F\n7E8 04 62 F4 2F 1F "
+- expected_values:
+    KUGA_FLI: 0
+  response: '7E8 04 62 F4 2F 00 '
+- expected_values:
+    KUGA_FLI: 5.4902
+  response: '7E8 04 62 F4 2F 0E '
+- expected_values:
+    KUGA_FLI: 38.03922
+  response: '7E8 04 62 F4 2F 61 '
+- expected_values:
+    KUGA_FLI: 0
+  response: 7E80462F42F00
+- expected_values:
+    KUGA_FLI: 100
+  response: 7E80462F42FFF

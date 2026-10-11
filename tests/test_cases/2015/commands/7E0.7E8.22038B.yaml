@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22038B
+test_cases:
+- expected_values:
+    KUGA_PCM_MISF_ACCEL_CYL4_NORM: 0
+  response: 7E80462038B00
+- expected_values:
+    KUGA_PCM_MISF_ACCEL_CYL4_NORM: 0.1875
+  response: 7E80462038B0C
+- expected_values:
+    KUGA_PCM_MISF_ACCEL_CYL4_NORM: -0.09375
+  response: 7E80462038BFA
+- expected_values:
+    KUGA_PCM_MISF_ACCEL_CYL4_NORM: -0.0625
+  response: 7E80462038BFC
+- expected_values:
+    KUGA_PCM_MISF_ACCEL_CYL4_NORM: -0.03125
+  response: 7E80462038BFE

@@ -1,0 +1,19 @@
+command_id: 7E6.7EE.221E1C|fc=1
+test_cases:
+- expected_values:
+    KUGA_TT: 60.6875
+  response: |-
+    221E1C
+    7EE05621E1C03CB
+- expected_values:
+    KUGA_TT: 9.375
+  response: 7EE05621E1C0096
+- expected_values:
+    KUGA_TT: 15.9375
+  response: 7EE05621E1C00FF
+- expected_values:
+    KUGA_TT: 16
+  response: 7EE05621E1C0100
+- expected_values:
+    KUGA_TT: 64
+  response: 7EE05621E1C0400

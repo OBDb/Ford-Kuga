@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22031B
+test_cases:
+- expected_values:
+    KUGA_VCT_EXH_ERR: 0
+  response: 7E80562031B0000
+- expected_values:
+    KUGA_VCT_EXH_ERR: -7.9375
+  response: 7E80562031BFF81
+- expected_values:
+    KUGA_VCT_EXH_ERR: -0.0625
+  response: 7E80562031BFFFF

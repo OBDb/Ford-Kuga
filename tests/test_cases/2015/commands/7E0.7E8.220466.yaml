@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.20651
+  response: '7E8056204663228'
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.24524
+  response: 7E805620466324B
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.25077
+  response: '7E8056204663250'
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.25298
+  response: '7E8056204663252'
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.27622
+  response: '7E8056204663267'
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.55282
+  response: '7E8056204663361'
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.72543
+  response: 7E80562046633FD
+- expected_values:
+    KUGA_TIP_DES_ABS: 14.85045
+  response: 7E805620466346E
+- expected_values:
+    KUGA_TIP_DES_ABS: 15.95577
+  response: '7E8056204663855'
+- expected_values:
+    KUGA_TIP_DES_ABS: 17.31225
+  response: 7E8056204663D1F

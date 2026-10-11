@@ -1,0 +1,8 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    KUGA_FLI_ALT: 13.33333
+  response: '7280462618522'
+- expected_values:
+    KUGA_FLI_ALT: 98.43137
+  response: 72804626185FB

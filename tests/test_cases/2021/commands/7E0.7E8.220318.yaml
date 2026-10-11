@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220318
 test_cases:
 - expected_values:
-    FORD_VCT_INT_ACT: 0
+    KUGA_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    FORD_VCT_INT_ACT: 4065
-  response: 7E805620318FE10
+    KUGA_VCT_INT_ACT: -13.8125
+  response: 7E805620318FF23
 - expected_values:
-    FORD_VCT_INT_ACT: 4072.3125
-  response: 7E805620318FE85
+    KUGA_VCT_INT_ACT: -0.0625
+  response: 7E805620318FFFF

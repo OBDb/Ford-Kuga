@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    KUGA_MCT: 54
+  response: 7E8046203CA36
+- expected_values:
+    KUGA_MCT: 106
+  response: 7E8046203CA6A

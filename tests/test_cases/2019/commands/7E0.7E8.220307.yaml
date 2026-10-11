@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    KUGA_LPFP_DUTY: 23.64502
+  response: '7E8 05 62 03 07 1E 44 '
+- expected_values:
+    KUGA_LPFP_DUTY: 20.4895
+  response: 7E8056203071A3A
+- expected_values:
+    KUGA_LPFP_DUTY: 21.21582
+  response: 7E8056203071B28
+- expected_values:
+    KUGA_LPFP_DUTY: 23.05908
+  response: 7E8056203071D84
+- expected_values:
+    KUGA_LPFP_DUTY: 24.58496
+  response: 7E8056203071F78

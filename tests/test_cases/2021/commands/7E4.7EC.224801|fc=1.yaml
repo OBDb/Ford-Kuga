@@ -1,19 +1,19 @@
 command_id: 7E4.7EC.224801|fc=1
 test_cases:
 - expected_values:
-    FORD_HVBAT_SOC: 49.798
+    KUGA_HVBAT_SOC: 49.798
   response: |-
     2248011
     7EC056248016143
 - expected_values:
-    FORD_HVBAT_SOC: 40.928
+    KUGA_HVBAT_SOC: 40.928
   response: 7EC056248014FF0
 - expected_values:
-    FORD_HVBAT_SOC: 48.268
+    KUGA_HVBAT_SOC: 48.268
   response: 7EC056248015E46
 - expected_values:
-    FORD_HVBAT_SOC: 52.218
+    KUGA_HVBAT_SOC: 52.218
   response: 7EC0562480165FD
 - expected_values:
-    FORD_HVBAT_SOC: 53.548
+    KUGA_HVBAT_SOC: 53.548
   response: 7EC056248016896

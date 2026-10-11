@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    KUGA_TIP_ABS: 14.24966
+  response: 7E80562033E324F
+- expected_values:
+    KUGA_TIP_ABS: 14.42669
+  response: 7E80562033E32EF
+- expected_values:
+    KUGA_TIP_ABS: 15.31294
+  response: 7E80562033E3610
+- expected_values:
+    KUGA_TIP_ABS: 21.09734
+  response: 7E80562033E4A7C

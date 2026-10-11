@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    KUGA_ERT: 0
+  response: '7E80462112600'
+- expected_values:
+    KUGA_ERT: 9
+  response: '7E80462112609'
+- expected_values:
+    KUGA_ERT: 23
+  response: '7E80462112617'
+- expected_values:
+    KUGA_ERT: 203
+  response: 7E804621126CB
+- expected_values:
+    KUGA_ERT: 243
+  response: 7E804621126F3
+- expected_values:
+    KUGA_ERT: 255
+  response: 7E804621126FF

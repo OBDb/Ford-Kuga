@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F406
+test_cases:
+- expected_values:
+    KUGA_STFT: -18.75
+  response: 7E80462F40668
+- expected_values:
+    KUGA_STFT: 5.46875
+  response: 7E80462F40687

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22057D
+test_cases:
+- expected_values:
+    KUGA_AAT_ALT: 44
+  response: '7E8 04 62 05 7D A8 '
+- expected_values:
+    KUGA_AAT_ALT: 3
+  response: 7E80462057D56
+- expected_values:
+    KUGA_AAT_ALT: 4
+  response: 7E80462057D58
+- expected_values:
+    KUGA_AAT_ALT: 5
+  response: 7E80462057D5A
+- expected_values:
+    KUGA_AAT_ALT: 46
+  response: 7E80462057DAC

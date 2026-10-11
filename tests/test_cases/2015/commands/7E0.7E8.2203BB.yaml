@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2203BB
+test_cases:
+- expected_values:
+    KUGA_VCT_EXH_DES: 0
+  response: 7E8056203BB0000
+- expected_values:
+    KUGA_VCT_EXH_DES: 11
+  response: 7E8056203BB00B0
+- expected_values:
+    KUGA_VCT_EXH_DES: 11.0625
+  response: 7E8056203BB00B1
+- expected_values:
+    KUGA_VCT_EXH_DES: 11.875
+  response: 7E8056203BB00BE
+- expected_values:
+    KUGA_VCT_EXH_DES: 20.5
+  response: 7E8056203BB0148
+- expected_values:
+    KUGA_VCT_EXH_DES: 21.8125
+  response: 7E8056203BB015D
